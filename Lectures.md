@@ -57,7 +57,7 @@ Some key definitions (just copy from the paper if asked):
 
 *Set Theory* see slide 28 if need in exam and cheat sheet
 
-![](images/SetTheory.jpg)
+![](Images/SetTheory.jpg)
 
 ### Klir's definition does is non-temperal!
   - S = (T,R)
@@ -153,7 +153,7 @@ Key points:
 - the **connection** between the aggregate to the disaggregate model has to show realistic behavior
 - *[Davis Report WR-224, 2005](https://simulation.tudelft.nl/SEN9110/background/12%20Davis%20RAND-WR-224%20Multirsolution%20Multiperspective%20Modeling.pdf)* from RAND has a method for checking the validity of these implementations.
 
-![](images/L13.png)
+![](Images/L13.png)
 
 Only works if the states in the disaggregate and aggregate model are actually *comparable* !! e.g. car model/density function are not comparable (directly)
   - Weak commonality: comparing the states on the **dis-** aggregate level
